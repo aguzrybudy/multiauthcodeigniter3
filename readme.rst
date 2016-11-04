@@ -1,3 +1,4 @@
+
 ###################
 What is CodeIgniter
 ###################
@@ -9,6 +10,17 @@ a rich set of libraries for commonly needed tasks, as well as a simple
 interface and logical structure to access these libraries. CodeIgniter lets
 you creatively focus on your project by minimizing the amount of code needed
 for a given task.
+
+*********
+How To Use
+*********
+
+-  Clone or download this repository and upload to your local web server
+-  Import database from folder mydb
+-  Open Url http://localhost/multiauth/login for login
+-  Admin, username : admin, password: admin123
+-  User, username : user, password: user112
+-  Enjoy
 
 *******************
 Release Information
