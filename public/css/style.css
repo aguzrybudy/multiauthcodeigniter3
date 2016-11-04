@@ -1,0 +1,41 @@
+.box-login{
+	display:block;
+	padding-top:15%;
+}
+.box-register{
+	display:block;
+	padding-top:5%;
+}
+.nav-tabs{
+  background-color:#fff;
+  padding-left:0px;
+  padding-right:0px;
+  padding-top:20px;
+  padding-bottom:20px;
+}
+.tab-content{
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.nav-tabs > li{
+  display:inline;
+}
+
+.nav-tabs > li > a{
+  border-radius: 5px;
+  text-decoration:none;
+  outline:none;
+  padding-right:20px;
+  font-size:14pt;
+}
+.nav-tabs > li > a:hover{
+  background-color: #fff !important;
+  border-radius: 5px;
+  color:#333;
+}
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:focus,
+.nav-tabs > li.active > a:hover{
+    background-color: #fff !important;
+    color:#333;
+}
